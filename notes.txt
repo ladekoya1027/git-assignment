@@ -1,1 +1,4 @@
 Git is a distributed version control system used to track changes in code and collaborate with others.
+echo "Git helps developers collaborate
+efficiently by managing code versions."
+>> notes.txt
